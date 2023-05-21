@@ -16,3 +16,16 @@ Aplikacja Storz to platforma do zamawiania jedzenia, która umożliwia użytkown
 
 ```bash
 git clone https://github.com/twoja-nazwa-uzytkownika/storz.git
+
+````
+2. Zainstaluj biblioteki 
+
+```bash
+npm install / yarn / pnpm install
+```
+
+## Autorzy
+Autorami aplikacji są uczniowie klasy 2a gr2 
+
+## Licencja
+Całe repozytorium objęte jest linecnja - MIT Licencse
