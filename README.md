@@ -1,4 +1,4 @@
-# Aplikacja do zamawiania jedzenia Storz
+# Aplikacja do zamawiania jedzenia
 
 ## Opis
 
